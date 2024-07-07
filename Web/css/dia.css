@@ -1,0 +1,138 @@
+.p2{
+    grid-template-columns: 300px calc(100% - 300px);
+    margin: 20px 20px 0px 70px !important;
+}
+.page{
+    height: calc(100% - 40px);
+}
+.chat{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+.msglist{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    max-width: 60%;
+}
+.message {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.s1 {
+    justify-content: flex-end;
+    background-color: #0077ff2b;
+    flex-direction: row;
+    align-items: flex-end;
+    display: inline-block;
+    max-width: 40%;
+    min-width: 200px;
+}
+.s1 .text{
+    word-break: break-word;
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+    background-color: #00796b;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-weight: bold;
+    margin-right: 15px;
+}
+.sAI .avatar{
+    background-color: #0077ff;
+}
+.text {
+    max-width: 70%;
+}
+.message a{
+    font-size: 13px;
+    color: blue;
+}
+
+.chatstree{
+    padding-right: 20px;
+    border-right: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+}
+.chatstree a{
+    color: #000000;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 14px;
+    transition: 0.2s;
+    border-radius: 8px;
+    word-break: break-word;
+}
+.chatstree a:hover{
+    background: #00000012;
+}
+
+#form_chat{
+    display: flex;
+    gap: 7px;
+}
+#form_chat textarea{
+    font-size: 15px;
+    padding: 10px 15px;
+    width: 600px;
+    font-family: "Inter", sans-serif;
+    border-radius: 8px;
+    border: 1px solid #bcbcbc;
+    height: 45px;
+}
+#form_chat button[type="submit"] {
+    height: 45px;
+    width: 45px;
+    background: #0077FF;
+    border: 1px solid #0077FF;
+    border-radius: 8px;
+    transition: 0.1s;
+    cursor: pointer;
+}
+#form_chat button[type="submit"]:hover {
+    filter: brightness(90%);
+}
+#form_chat button[type="submit"] img{
+    filter: invert(100%);
+    width: 17px;
+    height: 17px;
+}
+
+.new{
+    background: #07F;
+    color: #fff !important;
+}
+.new:hover{
+    filter: brightness(90%);
+    background: #07F !important;
+}
+
+.here{
+    background: #00000012;
+}
+
+.mnew{
+    width: 600px;
+}
+.mnew .message{
+    padding: 0;
+}
+.loading{
+    width: 60px;
+}
+code{
+    white-space: normal;
+}
