@@ -1,5 +1,5 @@
 # API интерфейс
-При развертывании необходимо скачать файлы [документации](https://drive.google.com/file/d/10n-65J4MK5kf58vs1DZ965eW3ceCEfKy/view?usp=sharing). 
+При развертывании необходимо скачать файлы [документации](https://drive.google.com/file/d/10n-65J4MK5kf58vs1DZ965eW3ceCEfKy/view?usp=sharing).
 Необходимо разместить папку в директории `full_docs`
 
 ### Представленно 3 файла с инфренсом
