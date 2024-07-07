@@ -1,4 +1,3 @@
-Никита Угрюмов, [07.07.2024 10:20]
 import warnings 
 warnings.filterwarnings("ignore") 
  
