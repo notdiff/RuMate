@@ -1,14 +1,14 @@
-# Plugin installation guide
+# Руководство по установке плагина
 
-# Sublime text
+# Sublime Text
 
 1. `Settings` → `Browse Packages` → `User`
-2. Copy all files from [**PluginForSublime**](https://github.com/notdiff/RuMate/tree/main/Plugins/PluginForSublime)
-3. Restart Sublime text
-4. Select text and use RuMate via the context menu or `ctrl+alt+l`
+2. Скопируйте все файлы из [**PluginForSublime**](https://github.com/notdiff/RuMate/tree/main/Plugins/PluginForSublime)
+3. Перезапустите Sublime Text
+4. Выберите текст и используйте RuMate через контекстное меню или `ctrl+alt+l`
 
 # VS Code
 
-1. Download [`rumate-0.0.1.vsix`](https://github.com/notdiff/RuMate/blob/main/Plugins/PluginForVSCode/rumate-0.0.1.vsix)
-2. Go to `View` → `Extensions` → `Three dots` → `Install from VSIX`
-3. Select text and use RuMate via the context menu(Command Palette) or `ctrl+shift+p`
+1. Скачайте [`rumate-0.0.1.vsix`](https://github.com/notdiff/RuMate/blob/main/Plugins/PluginForVSCode/rumate-0.0.1.vsix)
+2. Перейдите в `View` → `Extensions` → `Три точки` → `Install from VSIX`
+3. Выберите текст и используйте RuMate через контекстное меню (Command Palette) или `ctrl+shift+p`
