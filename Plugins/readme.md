@@ -14,4 +14,4 @@
 2. Перейдите в `View` → `Extensions` → `Три точки` → `Install from VSIX`
 3. Выберите текст и используйте RuMate через контекстное меню (Command Palette) или `ctrl+shift+p`
 ---------------------------------------------------------------------------------
-![Sublime Text GIF](Plugin_2.gif)
+![VS Code GIF](Plugin_2.gif)
