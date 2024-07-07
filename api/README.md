@@ -9,4 +9,4 @@
 
 ### Остальные файлы
 * [main.py](https://github.com/notdiff/RuMate/blob/main/api/main.py) - основной файл api, со всем эндпоинтами
-* [parce.py](https://github.com/notdiff/RuMate/blob/main/api/parce.py) - файл автоматического парсера
+* [parse.py](https://github.com/notdiff/RuMate/blob/main/api/parce.py) - файл автоматического парсера
